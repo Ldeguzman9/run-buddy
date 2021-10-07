@@ -386,7 +386,8 @@ section {
     font-size: 20px;
   }
 
-  footer h2. footer div {
+  footer h2,
+  footer div {
     text-align: center;
     width: 100%;
   }
