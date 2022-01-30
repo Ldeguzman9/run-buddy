@@ -9,16 +9,16 @@ Run Buddy is a website that offers fitness training services.
 ## Screenshots
 
 - **Run Buddy:**
-  ![Run Buddy](https://github.com/Ldeguzman9/run-buddy/blob/main/Assets/images/hero-bg.jpeg?raw=true)
+  ![Run Buddy](https://github.com/Ldeguzman9/run-buddy/blob/main/assets/images/hero-bg.jpg?raw=true)
 
 ## Built With
 
 - HTML
 - CSS
 
-## Website
+## Deployed link
 
-https://lernantino.github.io/run-buddy/
+https://ldeguzman9.github.io/run-buddy/
 
 ## Contribution
 
